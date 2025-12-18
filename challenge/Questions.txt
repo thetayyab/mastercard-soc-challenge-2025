@@ -1,0 +1,28 @@
+
+░██████╗░█████╗░░█████╗░  ░█████╗░██╗░░██╗░█████╗░██╗░░░░░██╗░░░░░███████╗███╗░░██╗░██████╗░███████╗
+██╔════╝██╔══██╗██╔══██╗  ██╔══██╗██║░░██║██╔══██╗██║░░░░░██║░░░░░██╔════╝████╗░██║██╔════╝░██╔════╝
+╚█████╗░██║░░██║██║░░╚═╝  ██║░░╚═╝███████║███████║██║░░░░░██║░░░░░█████╗░░██╔██╗██║██║░░██╗░█████╗░░
+░╚═══██╗██║░░██║██║░░██╗  ██║░░██╗██╔══██║██╔══██║██║░░░░░██║░░░░░██╔══╝░░██║╚████║██║░░╚██╗██╔══╝░░
+██████╔╝╚█████╔╝╚█████╔╝  ╚█████╔╝██║░░██║██║░░██║███████╗███████╗███████╗██║░╚███║╚██████╔╝███████╗
+╚═════╝░░╚════╝░░╚════╝░  ░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝╚═╝░░╚══╝░╚═════╝░╚══════╝
+
+
+
+
+1.	What is the Initial Infection vector used in this campaign?
+2.	What is the Flag 1 from the Initial Infection Vector?
+3.	What is the source of the campaign?
+4.	What is the filename of the Initial Infection Payload?
+5.	Map the MiTRE Techniques used by the malware.
+6.	What is the MIME type of the Initial Infection Payload used in the campaign?
+7.	What is the SHA256 of the Initial Infection Payload?
+8.	List all the Indicators from the Initial Infection Vector. 
+9.	List the Network Indicators that are used in this campaign.
+10.	What is the hostname of the victim? 
+11.	What is the algorithm used to encode the password?
+12.	What is the password to open the ZIP Archive file?
+13.	What is the full system file location where the payload is copied?
+14.	What are the remote commands executed by the attacker?
+15. 	What is the final flag used in the campaign? 
+
+***************END******************
